@@ -1,3 +1,4 @@
 module.exports={
-  test:"1"
+  test: "1",
+  develop:"2"
 }
